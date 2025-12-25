@@ -1,0 +1,9 @@
+You're wondering about headings and paragraphs in our web development course? That's a great topic!
+
+In Video 4, we discussed headings and paragraphs, specifically focusing on HTML elements like `h1`, `h2`, `p` (paragraphs), and `a` (links). We also talked about the difference between block and inline elements.
+
+At around 0.0 seconds into Video 4, I introduced the concept of headings and paragraphs, explaining how they're used to structure content on a web page. Later, at 362.32 seconds in, we discussed the details of HTML introduction, including the main heading page (HTML) and different types of headings.
+
+For a more detailed explanation of block elements like paragraphs, check out Video 8, where I explain what a paragraph is and how it works as a block element. You can find that video by looking for "Inline & Block Elements in HTML" and playing from the start time of 233 seconds.
+
+If you have any more questions or need further clarification, feel free to ask!

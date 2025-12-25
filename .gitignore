@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+.env
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ML Models & Embeddings
+*.joblib
+*.pkl
+*.h5
+*.pt
+
+# Data Files
+videos/
+audios/
+jsons/
+newjsons/
+
+# Logs & Temp
+*.log
+tmp/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
