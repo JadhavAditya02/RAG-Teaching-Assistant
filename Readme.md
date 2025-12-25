@@ -50,9 +50,6 @@ This design improves answer accuracy, reduces hallucinations, and ensures respon
 #### **Tools & Technologies**
 
 * FFmpeg (Video to Audio Conversion)
-* REST APIs (Embedding & LLM inference)
-* Git & GitHub
-* Linux Environment
 
 #### **Hardware (Optional)**
 
